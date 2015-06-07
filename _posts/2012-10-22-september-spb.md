@@ -17,9 +17,9 @@ tags:
   - Питер
 ---
 
-  ![Исаакий]({{ site.url }}/blog/assets/images/2012/10/P8260135-150x150.jpg)
-  ![Где-то на Васильевском]({{ site.url }}/blog/assets/images/2012/10/P8260086-150x150.jpg)
-  ![Первые пожелтевшие]({{ site.url }}/blog/assets/images/2012/10/P8260136-150x150.jpg)
-  ![7-я линия и музыкант]({{ site.url }}/blog/assets/images/2012/10/P8260094-150x150.jpg)
-  ![Казанский собор]({{ site.url }}/blog/assets/images/2012/10/P8260055-150x150.jpg)
-  ![Канал Грибоедова]({{ site.url }}/blog/assets/images/2012/10/P8260050-150x150.jpg)
+  ![Исаакий]({{ site.url }}/blog/assets/images/2012/10/P8260135.jpg) <br/>
+  ![Где-то на Васильевском]({{ site.url }}/blog/assets/images/2012/10/P8260086.jpg) <br/>
+  ![Первые пожелтевшие]({{ site.url }}/blog/assets/images/2012/10/P8260136.jpg) <br/>
+  ![7-я линия и музыкант]({{ site.url }}/blog/assets/images/2012/10/P8260094.jpg) <br/>
+  ![Казанский собор]({{ site.url }}/blog/assets/images/2012/10/P8260055.jpg) <br/>
+  ![Канал Грибоедова]({{ site.url }}/blog/assets/images/2012/10/P8260050.jpg) <br/>
