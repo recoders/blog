@@ -17,9 +17,7 @@ tags:
 ---
   На днях мне довелось поработать с формами на одном из наших сайтов. В качестве руководства я использовал статью [A Fancy AJAX Contact Form](http://tutorialzine.com/2009/09/fancy-contact-form/). Автор ([Martin Angelov](http://www.linkedin.com/in/martinaglv)) рассказывает как придать формам на сайте приятный и лаконичный вид, настроить js-валидацию и AJAX-обработку данных. Также предлагается посмотреть Demo и скачать готовый пример.
 
-[A Fancy AJAX Contact Form"](/blog/assets/images/2012/10/406.jpg)
-
-<!--more-->
+![A Fancy AJAX Contact Form]({{ site.url }}/blog/assets/images/2012/10/406.jpg)
 
 В качестве валидатора используется jquery-plugin [validationEngine](http://www.position-absolute.com/articles/jquery-form-validator-because-form-validation-is-a-mess/), а [jqtransform](http://www.dfc-e.com/metiers/multimedia/opensource/jqtransform/) — для изменения внешнего вида. Что и как подключается достаточно подробно описано [там же](http://tutorialzine.com/2009/09/fancy-contact-form/), так что я не буду заострять на этом вашего внимания. Лучше поведаю вам об одной проблеме, которая приключилась со мной в процессе интеграции этого чуда на сайт.
 
