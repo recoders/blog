@@ -25,15 +25,15 @@ tags:
 
 {% highlight html %}
 <meta name="viewport" content="minimum-scale=0.5, maximum-scale=0.5, width=device-width, user-scalable=no" />
-<link rel="stylesheet" type="text/css" href="style-portrait.css" media="screen and (max-width: &lt;cutoff&gt;px)" />
-<link rel="stylesheet" type="text/css" href="style-landscape.css" media="screen and (min-width: &lt;cutoff+1&gt;px)" /> 
+<link rel="stylesheet" type="text/css" href="style-portrait.css" media="screen and (max-width: <cutoff>px)" />
+<link rel="stylesheet" type="text/css" href="style-landscape.css" media="screen and (min-width: <cutoff+1>px)" /> 
 {% endhighlight %}
 
 чтобы разделить портретную и пейзажную ориентации. Главное, не забывать корректно проставлять параметр cutoff. Cutoff означает среднее число между длиной и короткой стороной устройства. Так, например, iPhone имеет размеры 320х480 и iPad &#8211; 768х1024. Соответственно, значения cutoff для них будут: 400 и 896 (заменять <var><cutoff></var> и<var><cutoff+1></var> в примере нужно соответственно на 400 и на 401 для iPhone)
 
 Если вы предпочитаете подгружать код используя @import (от этой привычки я избавился, прочитав <a href="http://www.stevesouders.com/blog/2009/04/09/dont-use-import/" target="_blank">don&#8217;t use import</a>), то можно использовать следующий вариант:
 
-{% highlight html %}
+{% highlight css %}
 /* iPad */
 @media screen and (min-device-width: 768px) {
     @media screen and (max-width: 896px) { @import url('ipad-portrait.css'); }
