@@ -8,7 +8,7 @@ tagline: byte by byte
 ## Последние записи
 
 <div class="posts">
-  {% for post in paginator.posts %}
+  {% for post in site.posts %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ BASE_URL }}/{{ post.url }}">
