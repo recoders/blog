@@ -564,3 +564,9 @@ a.pagination-item:hover {
 .tag_box > li > a > span:focus, {
     text-decoration: none;
 }
+
+span.post-author > a {
+    color: #c0c0c0;
+    vertical-align: super;
+    font-size: small;
+}

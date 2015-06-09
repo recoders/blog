@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Все записи
+title: Р’СЃРµ Р·Р°РїРёСЃРё
 tagline: byte by byte
 ---
 {% include JB/setup %}
