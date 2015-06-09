@@ -2,11 +2,6 @@
 title: Движок интернет-магазина
 author: mike
 layout: post
-permalink: /2012/dvizhok-internet-magazina/
-Hide SexyBookmarks:
-  - 0
-Hide OgTags:
-  - 0
 categories:
   - Общее
 tags:
