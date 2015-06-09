@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Life is code.
+title: Life is code
 tagline: byte by byte
 ---
 {% include JB/setup %}
     
-## Последние записи
-
 <div class="posts">
   {% for post in site.posts %}
   <div class="post">
