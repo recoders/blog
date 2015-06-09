@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Life is code
+title: Все записи
 tagline: byte by byte
 ---
 {% include JB/setup %}
