@@ -557,5 +557,10 @@ a.pagination-item:hover {
     color: #c0c0c0;
     vertical-align: super;
     font-size: smaller;
+}
+
+.tag_box > li > a > span:hover,
+.tag_box > li > a > span:active,
+.tag_box > li > a > span:focus, {
     text-decoration: none;
 }
