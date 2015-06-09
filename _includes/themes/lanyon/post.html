@@ -4,6 +4,19 @@
   {{ content }}
 </div>
 
+<div class="pagination">
+  {% if page.previous %}                                                               
+    <a class="pagination-item older" href="{{ BASE_PATH }}{{ page.previous.url }}">&larr; {{ page.previous.title }}</a>
+  {% else %}
+    <span class="pagination-item older">Начало</span>
+  {% endif %}
+  {% if page.next %}
+    <a class="pagination-item newer" href="{{ BASE_PATH }}{{ page.next.url }}">{{ page.next.title }} &rarr;</a>
+  {% else %}
+    <span class="pagination-item newer">Конец</span>
+  {% endif %}
+</div>
+
 <div class="related">
   <h2>Похожие записи</h2>
   <ul class="related-posts">
@@ -18,19 +31,6 @@
       </li>
     {% endfor %}
   </ul>
-</div>
-
-<div class="pagination">
-  {% if page.previous %}
-    <a class="pagination-item older" href="{{ page.previous.url }}">{{ page.previous.title }}</a>
-  {% else %}
-    <span class="pagination-item older"></span>
-  {% endif %}
-  {% if page.next %}
-    <a class="pagination-item newer" href="{{ page.next.url }}">{{ page.next.title }}</a>
-  {% else %}
-    <span class="pagination-item newer">&nbsp;</span>
-  {% endif %}
 </div>
 
 <div class="comments">
