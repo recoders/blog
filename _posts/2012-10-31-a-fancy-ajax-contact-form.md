@@ -2,13 +2,6 @@
 title: A Fancy AJAX Contact Form
 author: vladandreev
 layout: post
-permalink: /2012/a-fancy-ajax-contact-form/
-Hide SexyBookmarks:
-  - 0
-Hide OgTags:
-  - 0
-dsq_thread_id:
-  - 954609853
 categories:
   - Кодинг
 tags:

@@ -1,13 +1,9 @@
 ---
 title: Fb2-to-ePub — удобный конвертер для книг на iPhone и iPad
-author: mike
 layout: post
-categories:
-  - Общее
-tags:
-  - $0.99
-  - обзор
-  - программное обеспечение
+author: mike
+categories: [Общее]
+tags: [$0.99, обзор, программное обеспечение]
 ---
 ![Fb2-to-ePub](http://a4.mzstatic.com/us/r1000/079/Purple/v4/a3/0c/0f/a30c0ff7-fa05-2998-84f1-ed18b64d27fe/mzl.lzvncwbe.png)
 
