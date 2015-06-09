@@ -7,14 +7,14 @@ categories:
 tags:
   - Питер
 ---
-![Кленовый]({{ BASE_PATH }}/assets/images/2012/11/PA200014.jpg)
+![Кленовый]({{ site.url }}/blog/assets/images/2012/11/PA200014.jpg)
 
-![Отражения]({{ BASE_PATH }}/assets/images/2012/11/PA200021.jpg)
+![Отражения]({{ BASE_PATH }}/blog/assets/images/2012/11/PA200021.jpg)
 
-![На скамейке]({{ BASE_PATH }}/assets/images/2012/11/PA200052.jpg)
+![На скамейке]({{ BASE_PATH }}/blog/assets/images/2012/11/PA200052.jpg)
 
-![Аллея]({{ BASE_PATH }}/assets/images/2012/11/PA200185.jpg)
+![Аллея]({{ BASE_PATH }}/blog/assets/images/2012/11/PA200185.jpg)
   
-![Сад]({{ BASE_PATH }}/assets/images/2012/11/PA200153.jpg)
+![Сад]({{ BASE_PATH }}/blog/assets/images/2012/11/PA200153.jpg)
 
-![Марсово поле]({{ BASE_PATH }}/assets/images/2012/11/PA200141.jpg)
+![Марсово поле]({{ BASE_PATH }}/blog/assets/images/2012/11/PA200141.jpg)
