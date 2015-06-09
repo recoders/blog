@@ -551,3 +551,10 @@ a.pagination-item:hover {
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
+
+/* Tagbox tags styles */
+.tag_box > li > a > span {
+    color: #c0c0c0;
+    vertical-align: super;
+    font-size: smaller;    
+}
