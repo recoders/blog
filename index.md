@@ -8,7 +8,7 @@ tagline: byte by byte
   {% for post in site.posts limit:20 %}
   <div class="post">
     <h1 class="post-title">
-      <a href="{{ BASE_PATH }}{{ post.url }}">
+      <i class="icon-github"> </i><a href="{{ BASE_PATH }}{{ post.url }}">
         {{ post.title }}
       </a>
     </h1>
