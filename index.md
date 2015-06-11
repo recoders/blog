@@ -5,7 +5,7 @@ tagline: byte by byte
 {% include JB/setup %}
     
 <div class="posts">
-  {% for post in site.posts limit:20 %}
+  {% for post in site.posts %}
   <div class="post">
     <h1 class="post-title">
       <i class="icon-github"> </i><a href="{{ BASE_PATH }}{{ post.url }}">
@@ -18,5 +18,4 @@ tagline: byte by byte
     {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
   </div>
   {% endfor %}
-    <a href="{{ BASE_PATH  }}/archive.html">Все записи</a>
 </div>
