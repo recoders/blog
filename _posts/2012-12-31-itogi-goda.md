@@ -24,4 +24,4 @@ tags:
 
 С Новым Годом, мои друзья! С новыми возможностями!
 
-<small>Listen or <a href="http://prostopleer.com/tracks/5042599iPYD" target="_blank">download Cole Porter Anything Goes for free</a> on <a href="http://prostopleer.com/" target="_blank">Prostopleer</a></small>
+<object width="578" height="123"><param name="movie" value="http://embed.pleer.com/normal/track?id=B302w7Bafs3y0Bula&t=grey"></param><embed src="http://embed.pleer.com/normal/track?id=B302w7Bafs3y0Bula&t=grey" type="application/x-shockwave-flash" width="578" height="123"></embed></object> 
