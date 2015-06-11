@@ -11,7 +11,7 @@ categories:
 
 Итак, имеем фабрику в следующем виде (ее устройство не обсуждаем, несмотря на то, что она самописная, ее структура стандартная с небольшими плюшками в виде параметризуемого набора аргументов конструктора, смотри Александреску [2]):
 
-{% highlight cplusplus %}
+{% highlight cpp %}
 Factory.h
 
 template&lt;typename Base, typename… Args>
@@ -147,7 +147,7 @@ public:
 
 Определяем класс \`Base\` и соответствующую фабрику.
 
-{% highlight cplusplus %}
+{% highlight cpp %}
 Base.h
 
 class Base
@@ -162,7 +162,7 @@ class Base
 
 Для регистрации класса \`Derived\` производного от \`Base\` в фабрике в **Derived.cpp** файле необходимо *определить* глобально и разумнее всего статически 
 
-{% highlight cplusplus %}
+{% highlight cpp %}
 Derided.cpp  
 
 static FactoryRegistrar<Derived,BaseFactory> __factory_registrar__;
