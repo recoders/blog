@@ -10,7 +10,9 @@ tags:
   - Питер
 ---
 ![Ломоносовский мост]({{ site.url }}/blog/assets/images/2013/02/2013.01-Piter-Lomonosovskij-most.jpg)
-                                           
+
+<!-- more -->
+
 ![2-й Зимний мост]({{ site.url }}/blog/assets/images/2013/02/2013.01-Piter-2-j-Zimnij-most.jpg)
                                            
 ![Большой Конюшенный мост]({{ site.url }}/blog/assets/images/2013/02/2013.01-Piter-Bol-shoj-Konyushenny-j-most.jpg)

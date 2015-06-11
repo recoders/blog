@@ -11,7 +11,9 @@ tags:
 ---
 
 ![Welcome]({{ site.url }}/blog/assets/images/2013/01/P1070332.jpg)
-                                                     
+
+<!-- more -->
+
 ![Огни этого города]({{ site.url }}/blog/assets/images/2013/01/P1070317.jpg)
                                                      
 ![В кондитерской]({{ site.url }}/blog/assets/images/2013/01/PC310539.jpg)
