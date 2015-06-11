@@ -2,13 +2,6 @@
 title: Стать знаменитым
 author: mike
 layout: post
-permalink: /2013/stat-znamenity-m/
-Hide SexyBookmarks:
-  - 0
-Hide OgTags:
-  - 0
-robotsmeta:
-  - index,follow
 categories:
   - Общее
 ---

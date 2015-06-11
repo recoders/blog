@@ -2,7 +2,6 @@
 title: Итоги года
 author: mike
 layout: post
-permalink: /2012/itogi-goda/
 categories:
   - Общее
 tags:

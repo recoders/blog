@@ -2,9 +2,6 @@
 title: Отправить письмо с вложением на PHP
 author: mike
 layout: post
-permalink: /2014/otpravit-pis-mo-s-vlozheniem-na-php/
-robotsmeta:
-  - index,follow
 categories:
   - Кодинг
 tags:

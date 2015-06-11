@@ -2,9 +2,6 @@
 title: Портрет Этой Страны
 author: mike
 layout: post
-permalink: /2014/portret-e-toj-strany/
-robotsmeta:
-  - index,follow
 categories:
   - Проекты
 tags:

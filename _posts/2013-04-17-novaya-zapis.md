@@ -2,13 +2,6 @@
 title: Новая запись
 author: mike
 layout: post
-permalink: /2013/novaya-zapis/
-Hide SexyBookmarks:
-  - 0
-Hide OgTags:
-  - 0
-robotsmeta:
-  - index,follow
 categories:
   - Общее
 tags:
@@ -24,6 +17,4 @@ tags:
 
 Желаю вам хорошей недели!
 
-п.с. вот весь список заметок: [zombieblog.ru/archive][1]
-
- [1]: http://zombieblog.ru/archive
+п.с. вот весь список заметок: [zombieblog.ru/archive](http://zombieblog.ru/archive)

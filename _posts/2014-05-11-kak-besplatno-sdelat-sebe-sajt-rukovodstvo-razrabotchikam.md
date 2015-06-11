@@ -2,9 +2,6 @@
 title: Как бесплатно сделать себе сайт (руководство разработчикам)
 author: mike
 layout: post
-permalink: /2014/kak-besplatno-sdelat-sebe-sajt-rukovodstvo-razrabotchikam/
-robotsmeta:
-  - index,follow
 categories:
   - Кодинг
 tags:

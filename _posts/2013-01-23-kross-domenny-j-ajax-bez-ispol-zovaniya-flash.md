@@ -2,13 +2,6 @@
 title: Кросс-доменный AJAX без использования Flash
 author: mike
 layout: post
-permalink: /2013/kross-domenny-j-ajax-bez-ispol-zovaniya-flash/
-Hide SexyBookmarks:
-  - 0
-Hide OgTags:
-  - 0
-robotsmeta:
-  - index,follow
 categories:
   - Кодинг
 tags:
@@ -61,16 +54,19 @@ CORS &#8211; существующая на протяжении некоторо
 
 Например, предположим, что страница на домене <a href="http://foo.example" class="autohyperlink" title="http://foo.example" target="_blank">foo.example</a> намерена получить содержимое с домена <a href="http://bar.other" class="autohyperlink" title="http://bar.other" target="_blank">bar.other</a>. Код такого рода может быть использован с помощью яваскрипта, расположенного на foo.example:
 
-<pre class="lang:js decode:true">var invocation = new XMLHttpRequest();
+{% highlight javascript %}
+var invocation = new XMLHttpRequest();
 var url = 'http://bar.other/resources/public-data/';
 
 function callOtherDomain() {
-  if(invocation) {    
+  if(invocation) {
     invocation.open('GET', url, true);
     invocation.onreadystatechange = handler;
     invocation.send(); 
   }
-}</pre>
+}
+{% endhighlight %}
+
 
 Вот что отсылает и получает браузер:
 
