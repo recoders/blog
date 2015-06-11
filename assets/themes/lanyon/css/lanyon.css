@@ -570,3 +570,8 @@ span.post-author > a {
     vertical-align: super;
     font-size: small;
 }
+
+span.pluso-wrap > a.pluso-more {
+    display: none;
+    background-image: url(../images/plus.png) !important;
+}
