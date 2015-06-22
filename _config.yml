@@ -11,7 +11,7 @@ highlighter: pygments
 title : Life is code.
 tagline: byte by byte
 author :
-  name : re-coders
+  name : re-coders.com
   email : blog@re-coders.com
   github : recoders
   twitter : re_coders
@@ -115,7 +115,7 @@ JB :
   # Set 'provider' to false to turn sharing off globally.
   #
   sharing :
-    provider : false
+    provider false
     
   # Settings for all other include helpers can be defined by creating 
   # a hash with key named for the given helper. ex:
