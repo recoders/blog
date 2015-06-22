@@ -4,6 +4,11 @@ author: mike
 layout: post
 categories:
   - Философия
+tags:
+  - self-update
+  - проекты
+  - github
+  - кодинг
 ---
 ## С чего все началось?
 
