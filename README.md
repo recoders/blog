@@ -15,7 +15,7 @@ and [this](https://help.github.com/articles/fork-a-repo/).
 
 ## Website
 
-Look th result on <http://re-coders.com/blog>
+Look the result on <http://re-coders.com/blog>
 
 ## License
 
