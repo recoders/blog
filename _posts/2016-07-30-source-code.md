@@ -1,5 +1,11 @@
 ---
 published: false
+author: mike
+layout: post
+categories:
+  - Философия
+tags:
+  - философия
 ---
 ## Исходный код
 
