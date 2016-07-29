@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 author: mike
 layout: post
 categories:
